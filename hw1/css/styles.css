@@ -1,0 +1,35 @@
+body{
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+header, main, nav{
+    text-align:center;
+    color:white;
+    
+}
+nav a:hover{
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size:2em;
+    border-bottom: 6px cyan solid;
+    transition: .8s;
+    color:white;
+    font-family: 'Oswald', sans-serif;
+}
+ul{
+    list-style-position: inside;
+    list-style-type: square;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+a{
+    color: cyan;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: white;
+    color:black;
+    font-family: Pacifico;
+}
+

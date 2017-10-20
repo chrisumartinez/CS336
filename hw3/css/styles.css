@@ -1,0 +1,46 @@
+body{
+    color:white;
+    background-color:black;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+#button{
+    background-color: #00bcd4; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+form{
+    text-align: center;
+}
+#nameLabel{
+    font-family: 'Roboto', sans-serif;
+    color:green;
+    text-decoration: underline;
+}
+#name{
+    color:black;
+    text-align: center;
+}
+#ageText{
+    color:black;
+    text-align: center;
+}
+#ageLabel{
+    font-family: 'Lora', serif;
+    color:orange;
+    text-shadow: 3px 2px red;
+}
+select{
+    color:black;
+}
+#results{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
