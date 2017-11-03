@@ -1,0 +1,19 @@
+
+#submit{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+#deviceType{
+        color:cyan;
+    text-align: center;
+    background-color: black;
+}
+body{
+    background-color: black;
+    color:white;
+}
+#deviceName{
+    color:cyan;
+    background-color: black;
+}
