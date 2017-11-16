@@ -66,9 +66,6 @@ function userList(){
                  
                  
              }
-             
-             
-             
              ?>
             
     </body>

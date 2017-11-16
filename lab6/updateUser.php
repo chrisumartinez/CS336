@@ -3,9 +3,6 @@
   include 'database.php';
   $conn = getDatabaseConnection();
   
-  
-  
-  
 function departmentList(){
       
         global $conn;
