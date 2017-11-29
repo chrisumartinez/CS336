@@ -50,6 +50,10 @@ function onButtonPress(){
 
     }
     
+    
+    //clear old names
+    $('#names').empty();
+    
     //display names:
     for(var j = 0; j < 3; j++){
         var name = nameArray.pop();

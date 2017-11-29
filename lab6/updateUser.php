@@ -65,9 +65,7 @@ function returnSelected($departmentID, $sqlID){
 
 
  if (isset($_GET['userId'])) {
-     
     $userInfo = getUserInfo(); 
-     
      
  }
 
