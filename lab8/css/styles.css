@@ -1,0 +1,35 @@
+body{
+    background-image: url(../img/wall.jpg); 
+    background-size:cover;
+}
+#forms{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+    margin-bottom: 0px;
+}
+footer{
+        font-family: "Times New Roman", Georgia, Serif;
+        font-size:.8em;
+        width:600px;
+        margin:0 auto;
+        padding-top:10px;
+    }
+#legend{
+    display: block;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: none;
+}
+fieldset{
+    font-family: sans-serif;
+    border: 5px solid #1F497D;
+    background: #ddd;
+    border-radius: 5px;
+    padding: 15px;
+}

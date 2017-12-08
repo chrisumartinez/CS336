@@ -59,3 +59,9 @@ h1{
     font-size: 4em;
     margin-bottom: 0px;
 }
+#legend{
+    display: block;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: none;
+}
